@@ -1,2 +1,16 @@
-# team-project-the-b-team
-team-project-the-b-team created by GitHub Classroom
+# **Software Engineering Semester Project**
+ **The B Team** - Nick DeSilva, Scott Hahn, and Abdullah Syed
+
+
+## **Vision**
+
+The high-level idea for our project is a ___meal-prepping assistant___. Although apps are available to help plan meals and track caloric intake, they do not offer help in recipe creation or ingredient inventory management. Our product aims to provide a solution to these challenges. It would include a user profile where users can input nutritional goals, favorite meals, dietary restrictions, and more. Additionally, the product would feature an inventory management system that tracks a user's fridge and pantry and generates recipes based on available ingredients. If a required ingredient is missing, the app would suggest where to find it. This app will be used by individuals who are looking to get into meal prepping but do not know where to start or are discouraged by the seeming complexity of tracking calories and macronutrients. Users looking for new recipe ideas based on their dietary and nutritional needs will also find a home on this app. This application would fit into the market as an all-in-one meal-prepping app that combines the principles of meal prepping and nutrition, recipe ideation, and pantry inventory management, offering a unique and comprehensive solution for users who want to streamline their meal planning process and achieve their dietary and nutritional goals. As for the competitors in the space, "MyFitnessPal: Calorie Counter" is one of the most popular health and fitness applications on the market but there are several others such as "PlateJoy" and "Lose It!". 
+
+## **Software Architecture**
+
+This project is at a great level for our team becuase each of us bring a different skill to the table and we each have some experience in software development and the processes that go into it. This project at a basic level is combining many different functions that are being used in other applications currently as well a several new function that will be part of the development through the semester. We do not plan on needing any technology that is not already available to us. At a high level architectual view, the main components of the applcation would be a user profile, a recipe database, and a user interface that interacts with everything else. The user profile would include high level info such as name, gender, height, and weight. It also would include a database for the the ingrieddients the user has as well as information reguarding nutritioanl goals. The recipe database will be accessed as a part of the recipe finder function. Based on information in the user profile (ingridient list, dietary restreictions, nutritaonl goals), recipes are generated that match ingridients on hand and shows where to find ingridenss. Our plan is to use JavaScript to ddevelop our application. 
+
+## **Challenges and Risks**
+
+The biggest challenge that our team will face during this project will be learning the new technologies required to develop the software. While our team has a diverse skill set that will allow us to work well together, achieving the goal of having a working app by the end of the semester while following software engineering principles and ethics will require us to learn some new skills and technologies. To mitigate this challenge, we plan to spend a solid period researching, planning, and brainstorming before diving into the project head-on.
+
